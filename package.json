@@ -1,0 +1,22 @@
+{
+  "name": "@fjorwb/first-cli",
+  "version": "1.0.0",
+  "description": "first cli tool",
+  "main": "index.js",
+  "bin": {
+    "setup-project": "index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fjorwb/first-CLI.git"
+  },
+  "author": "fjorwb",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fjorwb/first-CLI/issues"
+  },
+  "homepage": "https://github.com/fjorwb/first-CLI#readme"
+}
